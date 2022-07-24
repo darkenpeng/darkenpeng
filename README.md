@@ -1,4 +1,4 @@
-### Hi, there! 👋 i'm 🐧✨
+### Hi, i'm Adelie penguin from antartica.
 
 <!--
 **chloeeee210/chloeeee210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
