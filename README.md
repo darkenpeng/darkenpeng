@@ -21,3 +21,17 @@ Please call me they/them.
 ## Interest(non-technical)
 - Gundam(Recently dived in)
 - The Witch from Mercury
+
+## Philosophy
+
+The following image can explain me.
+
+<img src="https://github.com/darkenpeng/darkenpeng/assets/91370858/10468b22-4dcd-4c88-9099-c5fdb85546a9" width="350" height="400" />
+
+I cannot fix everything but can make things work although method is weird.
+
+And strive to ADJUST STANDARDS that people made.
+
+That's why I keep studying.
+
+I want to be a coder who writes better code, not only performance but readability.
